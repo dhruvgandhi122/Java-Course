@@ -1,3 +1,5 @@
+import Enum.Laptop;
+
 interface Computer {
     public void code();
 }

@@ -1,3 +1,4 @@
+package Enum;
 enum Laptop{
     Victus(1200),
     Pavilion(2300),

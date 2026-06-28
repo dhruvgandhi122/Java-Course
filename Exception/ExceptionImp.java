@@ -1,3 +1,4 @@
+package Exception;
 class myChoiceException extends Exception{
     public myChoiceException(String abc){
         super(abc);

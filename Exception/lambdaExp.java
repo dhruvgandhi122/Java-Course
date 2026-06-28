@@ -1,3 +1,4 @@
+package Exception;
 @FunctionalInterface
 interface A{
     void add(int i,int j);

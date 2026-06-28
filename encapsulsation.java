@@ -17,7 +17,7 @@ class Human{
     }                                  // and setter methods and then select the variables for which we
                                        //  want to generate getter and setter methods
 
-    public int getAge(){`
+    public int getAge(){
         return age;
     }
 

@@ -1,3 +1,4 @@
+package Enum;
 enum Status{
     Running,Paused,Pending,Suspended,Completed;
 }
